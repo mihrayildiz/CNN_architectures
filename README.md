@@ -1,4 +1,4 @@
 # CNN_architectures
 
 
-AlexNet,NiN,GoogleNet,DenseNet  kullanılarak "Fashion Mnist" veriseti ile alışılmıştır. "MXNet, d2l" kütüphaneleri kullanılşmıştır.
+AlexNet,NiN,GoogleNet,DenseNet  kullanılarak "Fashion Mnist" veriseti ile çalışılmıştır. "MXNet, d2l" kütüphaneleri kullanılşmıştır.
